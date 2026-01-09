@@ -28,8 +28,10 @@ The dashboard compares actual sales with forecasted sales and delivers actionabl
 - Store & Store-Type Performance Analysis
 
 ## Files in This Folder
-- `Sales_Forecasting_Task1.ipynb` – Model & data preparation
-- `Sales_Forecasting_Dashboard.pbix` – Power BI dashboard
+## Related Files
+- `../Sales_Forecasting_Task1.ipynb` – Forecasting model & data preparation
+- Power BI Dashboard (.pbix) – Local Power BI file
+
 
 ⚠️ **Note:** GitHub may not preview `.pbix` files.  
 Please download and open using **Power BI Desktop**.
@@ -77,3 +79,4 @@ A time-series forecasting system was built using **Prophet** to predict store-le
 ## Author
 **Pranit Ukhalkar**  
 AI Sales Forecasting Intern
+
